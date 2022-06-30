@@ -1,8 +1,8 @@
-<!-- blog.md -->
+<!-- outreach.md -->
 ---
 layout: page
 title: null
-permalink: /blog
+permalink: /outreach
 ---
 
 
