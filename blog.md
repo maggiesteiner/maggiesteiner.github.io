@@ -1,6 +1,6 @@
 # Blog
 
-TEST
+TEST 2
 
 <ul>
   {% for post in site.posts %}
