@@ -7,8 +7,7 @@
 [Expanding Your Horizons Chicago](https://eyhchicago.com/) holds one-day conferences for middle school-aged girls to learn about STEM careers through volunteer-led, hands-on workshops. As a member of the EYH Chicago Organizing Committee and the Volunteers Committee (2021-present), I 
 
 ### UChicago Department of Human Genetics
-As a student representative for the Department of Human Genetics, I have contributed to the planning of graduate student recruitment events as well as social events for current students.
-
+As a student representative for the Department of Human Genetics, I have contributed to the planning of graduate student recruitment events as well as social events for current students. Additionally, I am a part of a team organizing computational biology and coding workshops for Chicago-area high school and middle school students.
 
 ## Past Outreach
 
