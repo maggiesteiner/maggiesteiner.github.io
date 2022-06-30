@@ -30,8 +30,15 @@ competition at GW Research Days, facilitating workshops with GW Libraries on res
 skills targeted to undergraduate students, and promoting our journal release events. The GWUR team has additionally worked OVPR to develop university-wide initiatives
 for undergraduate research, including the successful development of an online research opportunities database, [GW Research Commons](https://students.researchcommons.gwu.edu/hub).
 
-### The GW Association for Women in Mathematics
-
 ### Science Fair Volunteering
 
+I have volunteered as a judge in the Education for Tomorrow Allicance's [SCI://TECH Exposition](https://www.efta-us.org/scitech-exposition.html) Science Fair and Technical Writing competition in 2021 and 2022. 
+
+### The GW Association for Women in Mathematics
+
+From 2017-2019, I served as Vice President and later President of the GW chapter of the [Association for Women in Mathematics](https://awm-math.org/).
+
+
 ### Pi Mu Epsilon, DC Gamma Chapter
+
+From 2019-2020, I served as Secretary for the GW chapter of [Pi Mu Epsilon](https://pme-math.org/), a national mathematics honors society.
