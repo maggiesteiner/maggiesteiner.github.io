@@ -6,6 +6,6 @@ Email: steinerm@uchicago.edu
 
 <em>Website in development - check back soon!</em>
 
-* [Research](maggiesteiner.github.io/research)
-* [Outreach](maggiesteiner.github.io/outreach)
-* [CV](maggiesteiner.github.io/cv)
+* [Research](https://maggiesteiner.github.io/research)
+* [Outreach](https://maggiesteiner.github.io/outreach)
+* [CV](https://maggiesteiner.github.io/cv)
