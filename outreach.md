@@ -1,9 +1,11 @@
+<!-- blog.md -->
 ---
 layout: page
-permalink: /outreach/
-
+title: null
+permalink: /blog
 ---
+
 
 # Outreach
 
-test 4
+TEST
