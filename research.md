@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research
+permalink: /research/
+---
+
 # Research
 
-test3
+TEST
