@@ -1,7 +1,7 @@
 <!-- outreach.md -->
 ---
 layout: page
-title: "Outreach"
+title: ''
 permalink: /outreach
 ---
 
