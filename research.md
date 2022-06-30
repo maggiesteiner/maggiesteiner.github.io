@@ -1,8 +1,10 @@
+<!-- research.md -->
 ---
 layout: page
-title: Research
-permalink: /research/
+title: null
+permalink: /research
 ---
+
 
 # Research
 
