@@ -1,15 +1,13 @@
 <!-- blog.md -->
-
 ---
 layout: page
 title: null
 permalink: /blog
-
 ---
 
 # Blog
 
-test
+TEST
 
 <ul>
   {% for post in site.posts %}
