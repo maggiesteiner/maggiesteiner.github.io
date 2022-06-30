@@ -1,7 +1,7 @@
 <!-- research.md -->
 ---
 layout: page
-title: "Research"
+title: ''
 permalink: /research
 ---
 
