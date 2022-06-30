@@ -1,7 +1,5 @@
 # Blog
 
-TEST 2
-
 <ul>
   {% for post in site.posts %}
     <li>
