@@ -1,10 +1,10 @@
-<!-- research.md -->
+
 ---
 layout: page
-title: ''
-permalink: /research
+permalink: /research/
+
 ---
 
 # Research
 
-Coming soon!
+test
