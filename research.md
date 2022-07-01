@@ -8,7 +8,11 @@ All publications are listed on my [Google Scholar](https://scholar.google.com/ci
 
 ## Spatial processes in population genetics
 
+Current projects include:
+* A review of population genetic models for the spread of adaptive alleles in the context of SARS-CoV-2 variant evolution (in review)
+* Modeling the spatial distribution of rare deleterious alleles (recently presented at the 2022 [Evolution Meetings](https://www.evolutionmeetings.org/))
 
+More information coming soon!
 
 ## Retroviral phylodynamics & human endogenous retroviruses (undergraduate research)
 
