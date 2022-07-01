@@ -4,8 +4,6 @@ I am a PhD candidate in the [Novembre Lab](http://jnpopgen.org/) in the [Departm
 
 Email: steinerm@uchicago.edu
 
-<em>Website in development - check back soon!</em>
-
 * [Research](https://maggiesteiner.github.io/research)
 * [Outreach](https://maggiesteiner.github.io/outreach)
 * [CV](https://maggiesteiner.github.io/cv)
