@@ -36,8 +36,3 @@ I have volunteered as a judge in the Education for Tomorrow Allicance's [SCI://T
 ### The GW Association for Women in Mathematics
 
 From 2017-2019, I served as Vice President and later President of the GW chapter of the [Association for Women in Mathematics](https://awm-math.org/).
-
-
-### Pi Mu Epsilon, DC Gamma Chapter
-
-From 2019-2020, I served as Secretary for the GW chapter of [Pi Mu Epsilon](https://pme-math.org/), a national mathematics honors society.
