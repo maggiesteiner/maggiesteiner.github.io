@@ -9,6 +9,9 @@
 ### UChicago Department of Human Genetics
 As a student representative for the Department of Human Genetics, I have contributed to the planning of graduate student recruitment events as well as social events for current students. Additionally, I am a part of a team organizing computational biology and coding workshops for Chicago-area high school and middle school students.
 
+### Miscellaneous
+I'm signed up as a scientist with [Skype a Scientist](https://www.skypeascientist.com/) and have greatly enjoyed sharing about genetics & evolutionary biology through this program!
+
 ## Past Outreach
 
 ### The GW Undergraduate Review
@@ -31,7 +34,7 @@ for undergraduate research, including the successful development of an online re
 
 ### Science Fair Volunteering
 
-I have volunteered as a judge in the Education for Tomorrow Allicance's [SCI://TECH Exposition](https://www.efta-us.org/scitech-exposition.html) Science Fair and Technical Writing competition in 2021 and 2022. 
+I volunteered as a judge in the Education for Tomorrow Allicance's [SCI://TECH Exposition](https://www.efta-us.org/scitech-exposition.html) Science Fair and Technical Writing competition in 2021 and 2022. 
 
 ### The GW Association for Women in Mathematics
 
