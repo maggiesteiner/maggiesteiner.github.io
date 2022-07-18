@@ -10,7 +10,7 @@
 As a student representative for the Department of Human Genetics, I have contributed to the planning of graduate student recruitment events as well as social events for current students. 
 
 ### Miscellaneous
-I'm signed up as a scientist with [Skype a Scientist](https://www.skypeascientist.com/) and have greatly enjoyed sharing about genetics & evolutionary biology through this program! Additionally, I am a part of a team organizing computational biology and coding workshops for Chicago-area high school and middle school students.
+I'm signed up as a scientist with [Skype a Scientist](https://www.skypeascientist.com/) and have greatly enjoyed sharing about genetics & evolutionary biology through this program! Additionally, I am a part of a team organizing computational biology and coding workshops for Chicago-area high school and middle school students. I'm also starting a [blog](https://maggiesteiner.github.io/blog)!
 
 ## Past Outreach
 
