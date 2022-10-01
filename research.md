@@ -10,7 +10,7 @@ All publications are listed on my [Google Scholar](https://scholar.google.com/ci
 
 Recent projects include:
 * A review of population genetic models for the spread of adaptive alleles in the context of SARS-CoV-2 variant evolution ([published in PLoS Genetics](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1010391))
-* Modeling the spatial distribution of rare deleterious alleles (recently presented at the 2022 [Evolution Meetings](https://www.evolutionmeetings.org/))
+* Modeling the spatial distribution of rare deleterious alleles (presented at the 2022 [Evolution Meetings](https://www.evolutionmeetings.org/) and accepted for presentation at [ASHG 2022](https://www.ashg.org/meetings/2022-annual-meeting/registration/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1176XNx6HYtN4fxuxaKl_tHkCL64McCNh7aOM-1Mvi6ajJzCkZvWmvQIaAtWYEALw_wcB))
 
 More information coming soon!
 
