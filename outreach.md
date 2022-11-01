@@ -4,13 +4,13 @@
 
 ### Expanding Your Horizons Chicago
 
-[Expanding Your Horizons Chicago](https://eyhchicago.com/) holds one-day conferences for middle school-aged girls to learn about STEM careers through volunteer-led, hands-on workshops. As a member of the EYH Chicago Organizing Committee and the Volunteers Committee (2021-present), I assist in recruiting, training, and managing volunteers for EYH events.
+[Expanding Your Horizons Chicago](https://eyhchicago.com/) holds one-day conferences for middle school-aged girls to learn about STEM careers through volunteer-led, hands-on workshops. As a member of the EYH Chicago Organizing Committee and the Volunteers Committee (2021-present; currently Co-Chair), I assist in recruiting, training, and managing volunteers for EYH events.
 
-### UChicago Department of Human Genetics
-As a student representative for the Department of Human Genetics, I have contributed to the planning of graduate student recruitment events as well as social events for current students. 
+### University of Chicago
+As a student representative for the Department of Human Genetics, I have contributed to the planning of graduate student recruitment events as well as social events for current students. I am also a student representative for the UChicago Medical and Biological Sciences Alumni Association ([MBSAA](https://mbsaa.uchicago.edu/)).
 
 ### Miscellaneous
-I'm signed up as a scientist with [Skype a Scientist](https://www.skypeascientist.com/) and have greatly enjoyed sharing about genetics & evolutionary biology through this program! Additionally, I am a part of a team organizing computational biology and coding workshops for Chicago-area high school and middle school students. I'm also starting a [blog](https://maggiesteiner.github.io/blog)!
+I'm signed up as a scientist with [Skype a Scientist](https://www.skypeascientist.com/) and have greatly enjoyed sharing about genetics & evolutionary biology through this program! Additionally, I am a part of a team organizing computational biology and coding workshops for Chicago-area high school and middle school students (UChicago Computational Biology Outreach) and currently serve as its Director. 
 
 ## Past Outreach
 
