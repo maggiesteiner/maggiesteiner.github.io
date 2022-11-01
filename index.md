@@ -8,7 +8,6 @@ I am a PhD candidate in the [Novembre Lab](http://jnpopgen.org/) in the [Departm
 * [Outreach](https://maggiesteiner.github.io/outreach)
 * [CV](https://maggiesteiner.github.io/cv)
 * [Media](https://maggiesteiner.github.io/media)
-* [Blog](https://maggiesteiner.github.io/blog)
 
 **News**
-* September 22, 2022: New paper! John Novembre and I published a review on population genetic models of the spread of advantageous alleles in [PLoS Genetics](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1010391).
+* *September 22, 2022:* New paper! John Novembre and I published a review on population genetic models of the spread of advantageous alleles in [PLoS Genetics](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1010391).
