@@ -10,7 +10,7 @@ All publications are listed on my [Google Scholar](https://scholar.google.com/ci
 
 Recent & ongoing projects include:
 * A review of population genetic models for the spread of adaptive alleles in the context of SARS-CoV-2 variant evolution ([published in PLoS Genetics](https://journals.plos.org/plosgenetics/article/comments?id=10.1371/journal.pgen.1010391))
-* Modeling the spatial distribution of rare deleterious alleles and the impact of the spatial scale of sampling on allele frequency spectra (presented at the 2022 [Evolution Meetings](https://www.evolutionmeetings.org/) and [ASHG 2022](https://www.ashg.org/meetings/2022-annual-meeting/registration/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1176XNx6HYtN4fxuxaKl_tHkCL64McCNh7aOM-1Mvi6ajJzCkZvWmvQIaAtWYEALw_wcB))
+* Modeling the spatial distribution of rare deleterious alleles and the impact of the spatial scale of sampling on allele frequency spectra (presented at the 2022 [Evolution Meetings](https://www.evolutionmeetings.org/), [ASHG 2022](https://www.ashg.org/meetings/2022-annual-meeting/registration/?gclid=Cj0KCQjwyt-ZBhCNARIsAKH1176XNx6HYtN4fxuxaKl_tHkCL64McCNh7aOM-1Mvi6ajJzCkZvWmvQIaAtWYEALw_wcB), and [ProbGen 2023](https://meetings.cshl.edu/meetings.aspx?meet=PROBGEN&year=23))
 
 ## Retroviral phylodynamics & human endogenous retroviruses (undergraduate research)
 
